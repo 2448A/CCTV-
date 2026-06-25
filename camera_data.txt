@@ -1,0 +1,9 @@
+serialNumber=2305012199007448
+deviceType=CP-UNC-DA21PL3
+processor=SSC325
+cardReader=false
+ProductDate=none
+hasRTC=true
+SyncTime.Strategy=None
+cameraNum=0
+2DCode=none
